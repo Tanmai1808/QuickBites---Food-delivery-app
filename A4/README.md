@@ -103,7 +103,7 @@ See A4_report.pdf for the complete report with screenshots and detailed
 analysis.
 
 ## Video Demo
-[Add video link here]
+[https://drive.google.com/file/d/1qKJvaqW1RwHxxCgoM5Yi7GfPyGtYDv6y/view]
 
 ## Team Contributions
 
