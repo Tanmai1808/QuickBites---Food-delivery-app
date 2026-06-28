@@ -109,11 +109,11 @@ analysis.
 
 | Name | Contribution |
 |------|--------------|
-| [K's name] | Shard table creation, data migration, and verification (Module A) |
-| [TM's name] | shard_router.py and query routing implementation (Module B) |
-| [A's name] | Shard key justification and B+ Tree update for shards |
-| [P's name] | Scalability and trade-offs analysis, report compilation |
-| [TR's name] | Video demonstration recording and editing |
+| [Kavya name] | Shard table creation, data migration, and verification (Module A) |
+| [Tanmai Manjula] | shard_router.py and query routing implementation (Module B) |
+| [Anusha | Shard key justification and B+ Tree update for shards |
+| [Pravallika] | Scalability and trade-offs analysis, report compilation |
+| [Triveni] | Video demonstration recording and editing |
 =======
 # Assignment 4 — Sharding of the Developed Application
 
