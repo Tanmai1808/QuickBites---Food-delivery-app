@@ -78,7 +78,6 @@ Technologies used:
 - Python
 - Flask
 - MySQL
-- JavaScript
 
 📂 Detailed implementation:
 `A2/README.md`
@@ -176,7 +175,6 @@ Analysed:
 
 - HTML
 - CSS
-- JavaScript
 - Vite
 
 ## Testing
