@@ -193,3 +193,13 @@ Failure Rate     : 17%
 - SQLite has limited concurrent write support — PostgreSQL recommended for production
 - Failures in Step 3 are simulated, not real network failures
 - All tests run on localhost — real network latency not tested
+
+- ## Team Contributions
+
+| Name | Contribution |
+|------|--------------|
+| Tanmai Manjula | Module A — B+ Tree integration, Write-Ahead Log (WAL) implementation, crash recovery, consistency validation, and Module A testing |
+| kavya | Module A — Concurrent user simulation and FastAPI/SQLite backend setup |
+| Pravallika | Module A — thread locking implementation and video demonstration |
+| Anusha | Module B — Failure simulation and rollback verification |
+| Triveni| Module B —  Race condition testing,Stress testing and report compilation |
